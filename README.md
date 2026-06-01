@@ -1,3 +1,7 @@
+# Hi, I'm Samm 👋
+
+Computer Science student passionate about software engineering, AI, and building impactful applications.
+
 # 💫 About Me:
 🎓 Computer Science Student<br>💻 Interested in Software Engineering & AI<br>🌱 Currently learning ReactJS and Python<br>🔍 Looking for internship opportunities
 
