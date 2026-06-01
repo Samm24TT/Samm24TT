@@ -6,20 +6,12 @@ Computer Science student, learning Web development, passionate about software en
 
 - 🎓 Computer Science Student
 - 💻 Interested in Software Engineering & AI
-- 🌱 Currently learning System Design and Machine Learning
+- 🌱 Currently learning ReactJS and Python
 - 🔍 Looking for internship opportunities
 
 ## 🛠️ Tech Stack
 
 Python • Java • ReactJS • JavaScript • Git • SQL
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Samm24TT&show_icons=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Samm24TT=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samm24TT&layout=compact)
 
 ## 📂 Featured Projects
 
