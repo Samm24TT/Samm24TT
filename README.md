@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Samuel Bawi Nei Lian 👋
 
-<!--
-**Samm24TT/Samm24TT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student, learning Web development, passionate about software engineering, AI, and building impactful applications.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science Student
+- 💻 Interested in Software Engineering & AI
+- 🌱 Currently learning System Design and Machine Learning
+- 🔍 Looking for internship opportunities
+
+## 🛠️ Tech Stack
+
+Python • Java • ReactJS • JavaScript • Git • SQL
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Samm24TT&show_icons=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?Samm24TT=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samm24TT&layout=compact)
+
+## 📂 Featured Projects
+
+Currently nothing, improving my frontend skills.
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/samuel-bawi-nei-lian-b4573a286/
