@@ -1,4 +1,4 @@
-# Hi, I'm Samuel Bawi Nei Lian 👋
+# Hi, I'm Samuel 👋
 
 Computer Science student, learning Web development, passionate about software engineering, AI, and building impactful applications.
 
