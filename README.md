@@ -1,4 +1,4 @@
-# Hi, I'm Samm 👋
+# Hi, I'm Samuel 👋
 
 Computer Science student passionate about software engineering, AI, and building impactful applications.
 
